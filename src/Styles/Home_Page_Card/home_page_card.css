@@ -1,0 +1,16 @@
+.home_page_card {
+  width: 100%;
+  border-radius: 6px;
+}
+.home_page_card .card_img {
+  width: 100%;
+  height: 150px !important;
+  overflow: hidden;
+}
+.home_page_card .card_img img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 150px !important;
+  border-radius: 6px;
+}/*# sourceMappingURL=home_page_card.css.map */

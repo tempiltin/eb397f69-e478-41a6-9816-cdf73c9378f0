@@ -1,0 +1,15 @@
+.aside_left{
+    width: 70px;
+    height: 100vh;
+    position: fixed;
+    background-color: #ffffff;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    .brandLogo{
+        cursor: pointer;
+        width: 70px;
+        height: 70px;
+        background-color: #FF5E3A;
+    }
+}
